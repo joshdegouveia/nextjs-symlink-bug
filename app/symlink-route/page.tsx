@@ -1,0 +1,1 @@
+../../symlinks/symlink-route/page.tsx
